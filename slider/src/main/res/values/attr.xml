@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="Slider">
+		<attr name="progressHandleRadius" format="dimension" />
+		<attr name="progressHeight" format="dimension" />
+		<attr name="progressTextSize" format="dimension" />
+		<attr name="progressTextBottomMargin" format="dimension" />
+		<attr name="progressColor" format="color" />
+		<attr name="progressBackgroundColor" format="color" />
+		<attr name="progressHandleColor" format="color" />
+		<attr name="progressHandleRingColor" format="color" />
+		<attr name="progressTextColor" format="color" />
+	</declare-styleable>
+</resources>
